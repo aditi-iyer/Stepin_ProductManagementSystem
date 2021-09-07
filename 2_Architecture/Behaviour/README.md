@@ -1,4 +1,4 @@
-# Use Case
+# Use Case Diagram
 
 ![Usecase](https://user-images.githubusercontent.com/89658708/132314434-2894c1ad-f9f1-4f8c-a673-b5f177deff68.png)
 
