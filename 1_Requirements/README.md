@@ -39,7 +39,16 @@ Implemented using structures, files, pointers and other functionalities of C.
 
 | ID | Description | Category | Status
 | --- | --- | --- | --- |
-| HR01 | User shall be able to add new cosmetic products | Technical | Completed
-| HR02 | User shall be able to view cosmetic products | Technical | Completed
-| HR03 | User shall be able to edit cosmetic products | Technical | Completed
-| HR04 | User shall be able to read cosmetic products | Technical | Completed
+| HR01 | User shall be able to add new cosmetic products | Technical | Implemented
+| HR02 | User shall be able to view cosmetic products | Technical | Implemented
+| HR03 | User shall be able to edit cosmetic products | Technical | Implemented
+| HR04 | User shall be able to read cosmetic products | Technical | Implemented
+
+## Low Level Requirements:
+
+| ID | Description | HLR_ID | Status
+| --- | --- | --- | --- |
+| LR01 | New product shall be added when prompted by the UI | HR01 | Implemented
+| HR02 | Product Code should be unique | HR01 | Implemented
+| HR03 | Product Name and company can't have invalid characters | HR01,HR03 | Implemented
+| HR04 | Reading cosmetic product data should be allowed. | HR04 | Implemented
