@@ -35,3 +35,6 @@ The increase of self care among everyone. Cosmetics are mainly used by women.
 Implemented using structures, files, pointers and other functionalities of C.
 
 ## High Level Requirements
+
+--- TBD in Tabular Format 
+-- ID | Description | Status (Implemented/Future)
