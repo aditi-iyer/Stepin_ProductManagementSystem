@@ -34,7 +34,12 @@ The increase of self care among everyone. Cosmetics are mainly used by women.
 
 Implemented using structures, files, pointers and other functionalities of C.
 
-## High Level Requirements
+# Detail requirements
+## High Level Requirements:
 
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+| ID | Description | Category | Status
+| --- | --- | --- | --- |
+| HR01 | User shall be able to add new cosmetic products | Technical | Completed
+| HR02 | User shall be able to view cosmetic products | Technical | Completed
+| HR03 | User shall be able to edit cosmetic products | Technical | Completed
+| HR04 | User shall be able to read cosmetic products | Technical | Completed
