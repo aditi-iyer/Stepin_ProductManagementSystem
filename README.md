@@ -49,3 +49,17 @@
 |-------|---------|----------------|-------------|--------------|
 | `99005858` | Aditi Iyer | Add, Edit, Delete and View Cosmetics |  1   |  1 |
 
+
+## Challenges Faced and How Was It Overcome
+
+1. Debugging
+2. Makefiles
+
+## Learning Resources
+1. [StockManagement](https://itsourcecode.com/free-projects/c-projects/stock-management-system-project-in-c-with-source-code/)
+2. [git inspector](https://github.com/ejwa/gitinspector.git)
+3. [github workflow](https://docs.github.com/en/actions/learn-github-action)
+
+
+
+
