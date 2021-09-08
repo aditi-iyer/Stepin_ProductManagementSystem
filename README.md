@@ -21,12 +21,13 @@
 <img src=https://www.code-inspector.com/project/27931/status/svg />
 </a> 
 
-|Build|Unit Test|cppcheck|Valgrind|Coverage|Git Inspector|
-|:--:|:--:|:--:|:--:|:--:|:--:|
 
-|[![C/C++ CI](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/c-build.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/c-build.yml)|[![Unit Testing](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/unit-test.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/unit-test.yml)|[![Code Quality -Cppcheck](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/cppcheck.yml)|
-[![CodeQuality-Valgrind](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/Valgrind.yml)|[![CI](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/main.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/main.yml)|[![Git Inspector](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/gitinspector.yml)
-|
+#### Code Badges
+
+|Build|Unit Test|cppcheck|Valgrind|Coverage|Git Inspector|
+|:------:|:--:|:--:|:--:|:--:|:--:|
+|![C/C++ CI](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/c-build.yml/badge.svg)|![Unit Testing](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/unit-test.yml/badge.svg)|![Code Quality - Cppcheck](https://github.com/nirugantishaikshavali/N.shaikshavali_stepin_Calculator/actions/workflows/cppcheck.yml/badge.svg)|![Code Quality -Cppcheck](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/cppcheck.yml/badge.svg)|![CI](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/main.yml/badge.svg)|![Git Inspector](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/gitinspector.yml/badge.svg)|
+
 
   
 
@@ -41,9 +42,9 @@
 |Folder             | Description |
 |-------------------| -----------------------------------------|
 | `1_Requirements`   | Documents detailing requirements and research|
-| `2_Design`         | Documents specifying design details|
+| `2_Architecture`         | Documents specifying design details|
 | `3_Implementation` | All code and documentation|
-| `4_Test_plan`      | Documents with test plans and procedures|
+| `4_Testplan`      | Documents with test plans and procedures|
 ## Contributors List and Summary
 |PS no. |  Name   |    Features    |No Test Cases|Test Case Pass|
 |-------|---------|----------------|-------------|--------------|
