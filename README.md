@@ -22,4 +22,4 @@
   
 [![CI](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/main.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/main.yml)
   
-
+[![CodeQuality-Valgrind](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/Valgrind.yml)
