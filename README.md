@@ -8,6 +8,7 @@
 
 * Cosmetic Products can be added, deleted and viewed.
 
+# SDLC Activity Based Learning
 
 #### Codacy 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2db3fa5f4a9444edb0caaff2f663b9eb)](https://www.codacy.com/gh/aditi-iyer/Stepin_ProductManagementSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=aditi-iyer/Stepin_ProductManagementSystem&amp;utm_campaign=Badge_Grade)
@@ -19,15 +20,32 @@
 <img src=https://www.code-inspector.com/project/27931/score/svg />
 <img src=https://www.code-inspector.com/project/27931/status/svg />
 </a> 
+
+|Build|Unit Test|cppcheck|Valgrind|Coverage|Git Inspector|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+
+|[![C/C++ CI](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/c-build.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/c-build.yml)|[![Unit Testing](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/unit-test.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/unit-test.yml)|[![Code Quality -Cppcheck](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/cppcheck.yml)|
+[![CodeQuality-Valgrind](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/Valgrind.yml)|[![CI](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/main.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/main.yml)|[![Git Inspector](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/gitinspector.yml)
+|
+
   
-[![CI](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/main.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/main.yml)
-  
-[![CodeQuality-Valgrind](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/Valgrind.yml)
 
-[![Code Quality -Cppcheck](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/cppcheck.yml)
+ 
 
-[![Git Inspector](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/gitinspector.yml)
 
-[![Unit Testing](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/unit-test.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/unit-test.yml)
 
-[![C/C++ CI](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/c-build.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/c-build.yml)
+
+
+
+## Folder Structure
+|Folder             | Description |
+|-------------------| -----------------------------------------|
+| `1_Requirements`   | Documents detailing requirements and research|
+| `2_Design`         | Documents specifying design details|
+| `3_Implementation` | All code and documentation|
+| `4_Test_plan`      | Documents with test plans and procedures|
+## Contributors List and Summary
+|PS no. |  Name   |    Features    |No Test Cases|Test Case Pass|
+|-------|---------|----------------|-------------|--------------|
+| `99005858` | Aditi Iyer | Add, Edit, Delete and View Cosmetics |  1   |  1 |
+
