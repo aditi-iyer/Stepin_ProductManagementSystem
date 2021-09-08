@@ -27,3 +27,5 @@
 [![Code Quality -Cppcheck](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/cppcheck.yml)
 
 [![Git Inspector](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/gitinspector.yml)
+
+[![Unit Testing](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/unit-test.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/unit-test.yml)
