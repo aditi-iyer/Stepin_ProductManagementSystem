@@ -20,6 +20,6 @@
 <img src=https://www.code-inspector.com/project/27931/status/svg />
 </a> 
   
-
+[![CI](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/main.yml/badge.svg)](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/main.yml)
   
 
