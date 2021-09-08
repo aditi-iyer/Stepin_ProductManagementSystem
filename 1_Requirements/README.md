@@ -4,12 +4,27 @@
 
 Cosmetic Product Management System is a simple application system designed to maintain details of all cosmetic products. Cosmetics are used on day to day basis. The project focuses on adding new cosmetics, viewing cosmetics, deleting and editing the list.
 
-## Benefits
+## Research
+
+Cosmetics are constituted mixtures of chemical compounds derived from either natural sources, or synthetically created ones. Cosmetics have various purposes. Those designed for personal care and skin care can be used to cleanse or protect the body or skin. Cosmetics designed to enhance one's appearance (makeup) can be used to conceal blemishes, enhance one's natural features (such as the eyebrows and eyelashes), add color to a person's face and,can be used to change the appearance of the face entirely to resemble a different person, creature or object. Cosmetics can also be designed to add fragrance to the body.
+
+## Features with Timeline
 
 * Major activities of the manual system is automated, which increases its throughput
 * The system is fast, user friendly and interactive
 * The information entered is more accurate and clear
 * Better data management facility in terms of maintaining files which are entered in registers manually and stored.
+
+
+## Defining our system
+
+* Add Cosmetics
+* Delete Cosmetics
+* Edit Cosmetics
+* View Cosmetics
+
+![DFD0](https://user-images.githubusercontent.com/89658708/132548517-314092cb-8abd-4c12-b2fc-4fc87c9ca735.png)
+
 
 ## SWOT Analysis
 
