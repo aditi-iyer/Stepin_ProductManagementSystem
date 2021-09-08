@@ -26,7 +26,7 @@
 
 |Build|Unit Test|cppcheck|Valgrind|Coverage|Git Inspector|
 |:------:|:--:|:--:|:--:|:--:|:--:|
-|![C/C++ CI](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/c-build.yml/badge.svg)|![Unit Testing](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/unit-test.yml/badge.svg)|![Code Quality - Cppcheck](https://github.com/nirugantishaikshavali/N.shaikshavali_stepin_Calculator/actions/workflows/cppcheck.yml/badge.svg)|![Code Quality -Cppcheck](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/cppcheck.yml/badge.svg)|![CI](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/main.yml/badge.svg)|![Git Inspector](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/gitinspector.yml/badge.svg)|
+|![C/C++ CI](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/c-build.yml/badge.svg)|![Unit Testing](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/unit-test.yml/badge.svg)|![Code Quality -Cppcheck](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/cppcheck.yml/badge.svg)||![CI](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/main.yml/badge.svg)|![Git Inspector](https://github.com/aditi-iyer/Stepin_ProductManagementSystem/actions/workflows/gitinspector.yml/badge.svg)|
 
 
   
