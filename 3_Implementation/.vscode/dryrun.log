@@ -1,0 +1,6 @@
+make.exe --dry-run --keep-going --print-directory
+make.exe: Entering directory `c:/Users/Aditi Iyer/Desktop/3_Implementation'
+gcc promain.c src/add.c src/delete.c src/edit.c src/view.c  -Iinc -Iunity -o ProM.exe -lm
+ 
+make.exe: Leaving directory `c:/Users/Aditi Iyer/Desktop/3_Implementation'
+ 
